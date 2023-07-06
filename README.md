@@ -36,7 +36,7 @@ To set up the project locally, please follow these steps:
 3. Open the index.html file in your preferred web browser.
 
 ## Live Site
-You can access the live site of the project on GitHub Pages: [Link to the live site](https://beliya470.github.io/NutriTrack)
+You can access the live site of the project on GitHub Pages: [https://beliya470.github.io/Project-Phase1/]
 
 ## Copyright and License Information
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
