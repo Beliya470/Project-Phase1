@@ -1,43 +1,53 @@
-# NutriTrack - Personalized Nutrition Information
+<div align="center">
 
-## Project Owner: Anne Beliya Anziya
+# 🥗 NutriTrack
 
-## Project Description
-In an era where diet and nutrition play an integral part in personal health and wellbeing, it can be challenging for individuals to find accurate and personalized information on the nutritional value of the foods they consume. To address this, our project's primary goal is to build a web application that provides users with reliable and in-depth nutritional data for a wide variety of foods, enabling them to make informed dietary choices.
+### Personalized nutrition, powered by the FoodData Central API.
 
-## Solution
-We propose to develop a web application using JavaScript that interfaces with the 'FoodData Central' API provided by the U.S. Department of Agriculture. This API offers comprehensive data on the nutritional profile of various foods, allowing our application to provide users with personalized nutritional insights. Our platform will also include a food search feature that allows users to find detailed nutritional information about any food item they enter. The interface will be user-friendly and straightforward, catering to a wide range of users.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Minimum Viable Product (MVP)
-The MVP for this project would consist of the following features:
-- Food Search: Allows users to input specific food items and find in-depth nutritional information.
-- Dietary Tracking: Enables users to keep track of their daily food intake and its nutritional value.
-- Nutritional Insights: Provides detailed insights into the nutritional composition of food items, including macros and micros.
-- History: Stores the user's history of searched foods for quick access in the future.
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" width="100%"/>
 
-## User Stories
-- As a user, I want to be able to search for different foods and view their nutritional value so I can make informed dietary decisions.
-- As a user, I want to track the foods I consume daily, so I understand my nutritional intake.
-- As a user, I want to receive detailed insights into the nutritional composition of different food items, so I know what my diet is composed of.
-- As a user, I want my search history to be saved, so I can quickly access information about foods I've looked up in the past.
+</div>
 
-## API URL
-For this project, we will use the FoodData Central API provided by the U.S. Department of Agriculture, which delivers detailed data on the nutritional value of various foods. The API will be instrumental in offering personalized nutritional insights to the users. The URL for accessing the FoodData Central API is: [https://api.nal.usda.gov/fdc/v1/foods/search?api_key=w6MGtcmWlUTU6t1UVwhdWQLJJc00vQGdHzObjXeD](https://api.nal.usda.gov/fdc/v1/foods/search?api_key=w6MGtcmWlUTU6t1UVwhdWQLJJc00vQGdHzObjXeD).
+## ✨ Overview
 
-By using the FoodData Central API, our application can provide a valuable service to individuals who want to understand the nutritional value of the foods they consume, aiding them in making informed dietary choices.
+NutriTrack is a user-friendly web app offering personalized, detailed nutritional information and dietary tracking. Built as my Phase 1 project, it interfaces with the USDA FoodData Central API to bring real food data to your plate.
 
-## GitHub Repository
-[Link to the GitHub repository](https://github.com/Beliya470)
+## 🚀 Features
 
-## Project Setup Instructions
-To set up the project locally, please follow these steps:
-1. Clone the repository: `git clone https://github.com/Beliya470.git`
-2. Navigate to the project directory: `cd NutriTrack`
-3. Open the index.html file in your preferred web browser.
+- 🔍 Search foods via FoodData Central API\n- 📊 Detailed nutrition breakdowns\n- 📝 Track your daily intake\n- 💚 Clean, friendly UI\n- 📱 Responsive design
 
-## Live Site
-You can access the live site of the project on GitHub Pages: [https://beliya470.github.io/Project-Phase1/]
+## 🛠️ Built With
 
-## Copyright and License Information
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The full tech stack and tooling that powers this project — see badges above.
 
+## 📦 Getting Started
+
+```bash
+# clone the repo
+git clone https://github.com/Beliya470/Project-Phase1.git
+cd Project-Phase1
+
+# install & run (see project files for specifics)
+```
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome! Feel free to open an issue or submit a PR.
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## 👩‍💻 Author
+
+**Anne Beliya Anziya**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anne-anziya-226b76128)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Beliya470)
+
+<div align="center">
+
+⭐ If you found this project useful, consider giving it a star!
+
+</div>
